@@ -1,0 +1,10 @@
+playwright==1.49.1
+tenacity==9.0.0
+python-dotenv==1.0.1
+openai==1.57.2
+
+langchain==0.3.11
+langchain-openai==0.2.12
+langchain-community==0.3.11
+faiss-cpu==1.9.0.post1
+pypdf==5.1.0
