@@ -39,14 +39,6 @@ The system emphasizes:
 
 ---
 
-## Project Structure
-
-bravebird_demo/
-├── agent_a.py # Agent A: browser-based download agent
-├── agent_b.py # Agent B: PDF indexing + query agent
-├── main.py # Orchestrates Agent A → Agent B
-├── requirements.txt
-
 ### Sample Output:
 
 Planner(gpt-5-mini): {'action': 'CLICK_DOWNLOAD_BUTTON', ...}
